@@ -96,3 +96,4 @@ A basic GitHub Actions CI pipeline is included to:
 -Real data scraping working
 -Database persistence enabled
 -Ready for assessment review
+
