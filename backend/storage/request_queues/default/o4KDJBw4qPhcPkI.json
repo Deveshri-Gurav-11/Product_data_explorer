@@ -1,0 +1,9 @@
+{
+	"id": "o4KDJBw4qPhcPkI",
+	"json": "{\"id\":\"o4KDJBw4qPhcPkI\",\"url\":\"https://www.worldofbooks.com/collections/collectionsfantasy-fiction-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/collectionsfantasy-fiction-books\",\"uniqueKey\":\"https://www.worldofbooks.com/collections/collectionsfantasy-fiction-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-01-16T09:01:54.049Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/collections/collectionsfantasy-fiction-books",
+	"url": "https://www.worldofbooks.com/collections/collectionsfantasy-fiction-books"
+}
